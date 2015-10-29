@@ -1,8 +1,9 @@
 var url = "http://hltv.org/results";
-//var r = xhhtp.open("GET", url, false);
+var xhttp = new XMLHttpRequest();
+var r = xhttp.open("GET", url, true);
 
 function getContent(){
-    document.write("WTF");
+    document.write(r.getResponseHeader());
 }
 
 document.addEventListener('DOMContentLoaded', function () {
