@@ -11,7 +11,7 @@
     },
     
     "permissions": [
-	"https//www.hltv.org",
-	"http//www.hltv.org"
+	"https://hltv.org",
+	"http://hltv.org"
     ]
 }
