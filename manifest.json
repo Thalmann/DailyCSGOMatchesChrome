@@ -1,5 +1,8 @@
 {
+    "manifest_version": 2,
     "name": "CS GO Matches & Results",
     "version": "0.1",
+    
     "description": "Shows todays Counter Strike GLobal Offensive matches and their result"
+    "default_locale": "en"
 }
