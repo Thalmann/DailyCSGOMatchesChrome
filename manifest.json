@@ -5,4 +5,7 @@
     
     "description": "Shows todays Counter Strike GLobal Offensive matches and their result"
     "default_locale": "en"
+},
+{
+    "permissions": ["https//www.hltv.org", "http//www.hltv.org"]
 }
